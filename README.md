@@ -97,4 +97,4 @@ A frontend e-commerce application built from business requirements and an existi
 
 - **Email:** [codykazuma@gmail.com](mailto:codykazuma@gmail.com)
 - **LinkedIn:** [Cody Kazuma](https://www.linkedin.com/in/cody-kazuma/)
-- **GitHub:** [KodAlpha](https://github.com/KodAlpha)
+- **GitHub:** [ckazuma](https://github.com/ckazuma)
